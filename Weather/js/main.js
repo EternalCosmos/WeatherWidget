@@ -1,0 +1,4 @@
+$('.data-weather-container').widgetWeather({
+
+});
+
